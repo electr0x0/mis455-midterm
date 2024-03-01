@@ -150,3 +150,50 @@ footer {
     width: 100%;
     position: relative;
 }
+
+
+.contactus-image {
+    width: 100%;
+    height: auto;
+    top: 20px;
+    left: 0;
+}
+
+
+.contact-page {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+input,textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.contact-info {
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.contact-info p {
+    margin-bottom: 20px;
+}
