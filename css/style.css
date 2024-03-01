@@ -151,13 +151,16 @@ footer {
     position: relative;
 }
 
-
 .top-page-image {
     width: 100%;
-    height: auto;
+    height: 200px;
     top: 20px;
     left: 0;
+    margin-top: 5px ;
+    object-fit: cover;
 }
+
+
 
 
 .contact-page {
