@@ -152,7 +152,7 @@ footer {
 }
 
 
-.contactus-image {
+.top-page-image {
     width: 100%;
     height: auto;
     top: 20px;
@@ -196,4 +196,15 @@ input,textarea {
 
 .contact-info p {
     margin-bottom: 20px;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 0.5fr);;
+    grid-gap: 10px;
+    align-items: center;
 }
