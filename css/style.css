@@ -7,6 +7,7 @@ header {
     background-color: #2196F3;
     color: white;
     padding: 10px 0;
+    font-family: "Poppins", sans-serif;
 }
 
 .navbar {
@@ -47,6 +48,7 @@ nav a:hover {
 }
 
 .home-page {
+    font-family: "Poppins", sans-serif;
     margin: 0 auto;
     padding: 20px;
     text-align: center;
@@ -164,6 +166,7 @@ footer {
 
 
 .contact-page {
+    font-family: "Merriweather", serif;
     padding: 20px;
     max-width: 600px;
     margin: 0 auto;
@@ -215,5 +218,6 @@ input,textarea {
 }
 
 .products-page {
+    font-family: "Poppins", sans-serif;
     padding: 20px;
 }
